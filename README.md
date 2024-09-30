@@ -1,4 +1,4 @@
-# Small-Office-Network-Lab
+# Small Office Network Lab
 ### Introduction
 
 This project is about creating a network of user end devices and servers. The Project Objectives below were provided to me by a good [friend](https://www.linkedin.com/in/matthew-straub1/) that pushed me to apply theoretical knowledge into a real-world practical setting. I was provided with objectives list below and tasks to pursue that would help further develop my skills of networking concepts such as VLANs, router and switch configurations, DHCP, Spanning Tree protocols, and configuring routing protocols and much more. This lab was designed and simulated inside **Cisco Packet Tracer**.
